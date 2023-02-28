@@ -1,0 +1,28 @@
+.list {
+  list-style: none;
+}
+
+.img {
+  border-radius: 2px;
+  background: #fff;
+  border: 1px solid #ddd;
+  padding: 5px;
+  width: 150px;
+}
+
+.item {
+  display: flex;
+}
+
+.p {
+  font-size: 26px;
+  display: flex;
+  margin-left: 20px;
+  font-weight: bold;
+}
+
+.name {
+  font-size: 26px;
+  margin-left: 10px;
+  font-weight: normal;
+}

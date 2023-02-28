@@ -1,0 +1,83 @@
+.title {
+  color: #777;
+  font-weight: bold;
+  font-size: 30px;
+  text-align: left;
+  padding-left: 100px;
+}
+
+.img {
+  border-radius: 2px;
+  background: #fff;
+  border: 1px solid #ddd;
+  padding: 5px;
+  width: 300px;
+}
+
+.info {
+  display: flex;
+  margin: 0 100px;
+}
+
+.tleft {
+  padding-left: 30px;
+  color: #444;
+  font-size: 20px;
+  vertical-align: top;
+  text-align: left;
+}
+
+.td {
+  color: #000;
+  font-weight: bold;
+  width: 130px;
+  padding: 0;
+  vertical-align: top;
+}
+
+.button {
+  display: block;
+  width: 150px;
+  padding: 0.975rem 0.75rem;
+  font-size: 1rem;
+  margin: 20px 100px 0 auto;
+  text-decoration: none;
+  background-color: transparent;
+  border-radius: 7px;
+  box-shadow: 0 0 40px 40px hsla(256, 100%, 66%, 0.438) inset,
+    0 0 0 0 rgba(87, 47, 100, 0.75);
+  font-weight: bold;
+
+  color: rgba(35, 32, 32, 0.85);
+  transition: 0.15s ease-in-out;
+}
+
+.button:hover {
+  box-shadow: 0 0 10px 0 rgba(163, 97, 191, 0.413) inset,
+    0 0 10px 4px rgba(192, 80, 230, 0.419);
+  color: rgba(35, 32, 32, 0.85);
+}
+
+.list {
+  list-style: none;
+  text-align: start;
+  margin-left: 100px;
+  font-size: 26px;
+}
+
+.link {
+  text-decoration: none;
+  color: #777;
+}
+
+.link:hover {
+  color: #8254ff;
+}
+
+.subtitle {
+  color: #777;
+  font-weight: bold;
+  font-size: 30px;
+  text-align: left;
+  margin-left: 100px;
+}

@@ -1,0 +1,15 @@
+.list {
+    list-style: none;
+    text-align: start;
+    margin-left: 100px;
+    font-size: 26px;
+}
+
+.name {
+    color: #444;
+    font-weight: bold;
+}
+
+.text {
+    font-size: 18px;
+}
